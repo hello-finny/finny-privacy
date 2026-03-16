@@ -1,19 +1,16 @@
-**Última actualización:** 11 de enero de 2026
+**Última actualización: 9 de marzo de 2026**
 
 Esta Política de Privacidad de Datos (la **"Política"**) describe cómo **Finny Tech, S.A.** (**"Finny"**, **"nosotros"**) recopila, usa, protege, comparte y conserva la información relacionada con el uso de la aplicación móvil de Finny y los servicios asociados (los **"Servicios"**). Esta Política forma parte integral de los Términos y Condiciones de Finny.
 
----
-
 ### 1. Alcance y definiciones
 
-- **Datos Personales:** información que identifica o puede identificar a una persona (p. ej., nombre, correo, teléfono, datos de autenticación).
+**Datos Personales:** información que identifica o puede identificar a una persona (p. ej., nombre, correo, teléfono, datos de autenticación).
+
 - **Información Financiera del Cliente:** información sobre productos financieros (p. ej., tipo de tarjetas, saldos, deudas, fechas de pago) y datos derivados o relacionados, proporcionada directamente por el Cliente.
 - **Llaves Informáticas:** medios de autenticación que permiten acceder al Servicio, consistentes en el número de teléfono celular del Cliente y un código de acceso único (OTP) enviado vía WhatsApp.
 - **Datos de Uso:** información técnica y de interacción con la aplicación (p. ej., logs, eventos, fallos, métricas de rendimiento).
 - **Puntaje Finny:** puntaje de comportamiento financiero calculado por Finny con base en la información proporcionada por el Cliente.
 - **Finny Intelligence:** programa corporativo B2B que permite a empleadores ofrecer Finny como beneficio de bienestar financiero a sus empleados.
-
----
 
 ### 2. Datos que recopilamos
 
@@ -22,27 +19,30 @@ Podemos recopilar las siguientes categorías de datos, dependiendo de los Servic
 1. **Datos de registro y cuenta**
     - Identificación y contacto (nombre, correo, teléfono).
     - Llaves Informáticas (número de teléfono celular y códigos OTP para autenticación).
-2. **Datos para verificación e identidad**
+    - **Datos para verificación e identidad**
     - Datos necesarios para validar identidad y prevenir fraude (según los flujos de la aplicación y requisitos legales aplicables).
-3. **Datos financieros (con tu consentimiento)**
+    - **Datos financieros (con tu consentimiento)**
+    - **Información de pago del usuario (identificadores parciales):** por ejemplo, los *últimos 4 dígitos* de una tarjeta y fechas de corte y pago, **únicamente** para identificación de cuentas y recordatorios. Finny **no** almacena números completos de tarjeta (PAN) ni procesa pagos.
+    - **Historial de transacciones (si lo habilitas):** transacciones y movimientos provenientes de fuentes externas (p. ej., agregadores autorizados) o ingresados manualmente, con fines de visualización, presupuesto y análisis financiero.
+    - **Calificación crediticia / score:** acceso o visualización de tu historial o calificación crediticia a través de un proveedor de terceros autorizado, cuando aplique, para monitoreo y bienestar financiero.
+    - **Otra información financiera:** ingresos, deudas, metas y otros datos financieros ingresados voluntariamente por el Cliente para planeación y recomendaciones.
     - **Información básica de productos financieros** (tipo, saldos, fechas de pago, etc.) proporcionada por ti para visualización y recomendaciones dentro de la aplicación.
     - Respuestas a cuestionarios de diagnóstico financiero para construir tu Puntaje Finny.
-4. **Datos de uso y dispositivo**
+    - **Datos de uso y dispositivo**
     - Identificadores del dispositivo, sistema operativo, versión de la app.
     - Direcciones IP aproximadas, diagnósticos, registros de seguridad y rendimiento.
     - Interacciones con Finny Coach (asistente financiero impulsado por IA).
-5. **Comunicaciones**
+    - **Comunicaciones**
     - Interacciones con soporte (correos, chats, mensajes). Las notificaciones pueden enviarse por la app, correo electrónico, o canal de WhatsApp verificado oficial.
-
----
 
 ### 3. Finalidades del tratamiento
 
 Tratamos datos para:
 
 - **Proveer y operar los Servicios** y sus funcionalidades (cuenta, acceso, experiencia en la app).
+- **Gestión de la cuenta**: autenticación, verificación de identidad cuando aplique, y administración de preferencias.
 - **Calcular y mostrar el Puntaje Finny** basado en la información que proporcionas y generar recomendaciones personalizadas.
-- **Brindar visualización consolidada** de información básica de productos financieros dentro de la aplicación.
+- **Brindar visualización y análisis financiero**: presupuesto, categorización de transacciones, alertas y recordatorios (p. ej., fechas de pago y corte), cuando lo habilites.
 - **Ofrecer Finny Coach**, nuestro asistente financiero impulsado por inteligencia artificial, para responder consultas y ayudarte con tus metas financieras.
 - **Seguridad, prevención de fraude y abuso**, detección de accesos no autorizados y protección de cuentas.
 - **Cumplimiento legal y regulatorio** cuando aplique.
@@ -50,20 +50,15 @@ Tratamos datos para:
 - **Mejora del producto** (analítica interna y mejora de la calidad del servicio).
 - **Facilitar acceso a productos financieros** de cooperativas e instituciones financieras aliadas cuando lo solicites.
 
----
-
 ### 4. Base legal y consentimiento
 
-- Finny tratará datos con base en **tu consentimiento**, especialmente para tratar información financiera y compartir datos con instituciones financieras cuando solicites productos de ahorro o crédito.
-- También podemos tratar datos cuando sea **necesario para ejecutar el contrato** (prestar los Servicios) y para **intereses legítimos** como seguridad, prevención de fraude y mejora del Servicio, siempre respetando tus derechos.
+Finny tratará datos con base en **tu consentimiento**, especialmente para tratar información financiera y compartir datos con instituciones financieras cuando solicites productos de ahorro o crédito.
 
----
+- También podemos tratar datos cuando sea **necesario para ejecutar el contrato** (prestar los Servicios) y para **intereses legítimos** como seguridad, prevención de fraude y mejora del Servicio, siempre respetando tus derechos.
 
 ### 5. Cómo compartimos tus datos (y cuándo)
 
-Finny **no comercializa** los datos personales de sus clientes.
-
-Podemos compartir datos únicamente cuando sea necesario y bajo controles de seguridad y confidencialidad:
+Finny **no comercializa** los datos personales de sus clientes. Podemos compartir datos únicamente cuando sea necesario y bajo controles de seguridad y confidencialidad:
 
 **5.1. Proveedores y encargados**
 
@@ -87,8 +82,6 @@ En caso de fusión, adquisición, reestructura o cesión permitida, con notifica
 
 No compartimos datos con terceros para **publicidad comportamental** ni para fines ajenos a la prestación y mejora del Servicio, salvo consentimiento explícito.
 
----
-
 ### 6. Medidas de seguridad (estándares FinTech)
 
 Implementamos medidas técnicas, organizacionales y administrativas alineadas con buenas prácticas internacionales para proteger la confidencialidad, integridad y disponibilidad de la información:
@@ -106,8 +99,6 @@ Implementamos medidas técnicas, organizacionales y administrativas alineadas co
 
 **Importante:** aunque aplicamos buenas prácticas, ningún sistema es 100% infalible. Los Servicios se proveen con esfuerzos razonables de seguridad, sin garantía absoluta de ausencia de interrupciones o vulnerabilidades.
 
----
-
 ### 7. Retención y eliminación de datos
 
 Conservamos datos personales **solo el tiempo necesario** para:
@@ -118,8 +109,6 @@ Conservamos datos personales **solo el tiempo necesario** para:
 - Hacer cumplir acuerdos.
 
 Al eliminar tu cuenta o terminar el uso del Servicio, podremos retener cierta información cuando sea requerido o permitido por ley, o cuando sea necesaria para seguridad, auditoría, prevención de fraude o defensa de reclamos.
-
----
 
 ### 8. Tus derechos
 
@@ -133,8 +122,6 @@ Dependiendo de la ley aplicable, puedes solicitar:
 
 Para ejercer tus derechos, contáctanos a través de los canales indicados en "Contacto". Puedes eliminar permanentemente tu cuenta desde la sección de configuración de la Aplicación o contactándonos directamente.
 
----
-
 ### 9. Transferencias internacionales
 
 Podemos usar proveedores que almacenen o procesen información fuera de Guatemala. Cuando ocurra, implementamos salvaguardas razonables para proteger tus datos:
@@ -143,25 +130,17 @@ Podemos usar proveedores que almacenen o procesen información fuera de Guatemal
 - Controles de acceso y cifrado.
 - Prácticas de minimización y retención.
 
----
-
 ### 10. Menores de edad
 
 Los Servicios están dirigidos a personas mayores de dieciocho (18) años. No recopilamos intencionalmente información de menores de edad.
-
----
 
 ### 11. Cambios a esta Política
 
 Podremos actualizar esta Política periódicamente. Publicaremos la versión vigente dentro de la aplicación y/o por medios de contacto registrados. Tu uso continuado del Servicio después de un cambio constituirá tu aceptación de la Política actualizada.
 
----
-
 ### 12. Ley aplicable
 
 Esta Política se rige por las leyes aplicables en la República de Guatemala. Para controversias relacionadas con la interpretación de esta Política, serán competentes los tribunales de la Ciudad de Guatemala.
-
----
 
 ### 13. Contacto
 
@@ -169,8 +148,6 @@ Si tienes preguntas sobre esta Política o sobre el tratamiento de tus datos, co
 
 **Finny Tech, S.A.**
 
-Oficina 5, Edificio María de Alma, VH2 Zona 15,
-
-Ciudad de Guatemala, Guatemala.
+Oficina 5, Edificio María de Alma, VH2 Zona 15, Ciudad de Guatemala, Guatemala.
 
 [**soporte@finny.gt**](mailto:soporte@finny.gt)
