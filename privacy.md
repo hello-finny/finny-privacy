@@ -1,4 +1,4 @@
-**Última actualización: 9 de marzo de 2026**
+Última actualización: 9 de marzo de 2026
 
 Esta Política de Privacidad de Datos (la **"Política"**) describe cómo **Finny Tech, S.A.** (**"Finny"**, **"nosotros"**) recopila, usa, protege, comparte y conserva la información relacionada con el uso de la aplicación móvil de Finny y los servicios asociados (los **"Servicios"**). Esta Política forma parte integral de los Términos y Condiciones de Finny.
 
